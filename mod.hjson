@@ -1,0 +1,8 @@
+displayName: "test-mod-thing-idksomething"
+name: "test-mod-thing-idksomething"
+author: "sunRay004"
+description: "A test mod to see if i can alive myself"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: true
